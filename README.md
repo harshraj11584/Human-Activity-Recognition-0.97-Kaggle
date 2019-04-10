@@ -1,4 +1,4 @@
-# Human-Activity-Recognition-Kaggle-0.971
+# Human-Activity-Recognition-Kaggle-0.97
 Human Activity Recognition UCI Dataset, final score 0.97196   
 
 **d_nn.ipynb** first finds features with high correlation, drops them, then uses Sequential DNN for prediction.   
